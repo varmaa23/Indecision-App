@@ -1,0 +1,17 @@
+.Header {
+  text-align: center;
+  background-color: #111019;
+  font: inherit
+}
+
+.Body {
+  text-align: center;
+}
+
+.Options {
+  background-color: #545173;
+  width: 480px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 60px
+}
